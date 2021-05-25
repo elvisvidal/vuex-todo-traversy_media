@@ -1,4 +1,8 @@
-# vuex-todo-traversy_media
+# Vuex Crash Course | State Management
+
+Simple Todo list using Vuex
+
+[Watch it here](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMediaTraversyMediaVerified)
 
 ## Project setup
 ```
